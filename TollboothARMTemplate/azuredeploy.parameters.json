@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+  "parameters": {
+    "databaseAccounts_funny_name": {
+      "value": null
+    },
+    "sites_funnyapp_name": {
+      "value": null
+    },
+    "sites_funevents_name": {
+      "value": null
+    },
+    "topics_funtopic_name": {
+      "value": null
+    },
+    "components_funny_name": {
+      "value": null
+    },
+    "serverfarms_WestUSPlan_name": {
+      "value": null
+    },
+    "config_web_name": {
+      "value": null
+    },
+    "config_web_name_1": {
+      "value": null
+    },
+    "accounts_funny_name": {
+      "value": null
+    },
+    "databaseAccounts_funny_name_1": {
+      "value": null
+    },
+    "storageAccounts_funnyappa49c_name": {
+      "value": null
+    },
+    "storageAccounts_nomoreserver_name": {
+      "value": null
+    },
+    "storageAccounts_funeventsb970_name": {
+      "value": null
+    },
+    "alertrules_Failure_Anomalies___funny_name": {
+      "value": null
+    },
+    "hostNameBindings_funnyapp.azurewebsites.net_name": {
+      "value": null
+    },
+    "hostNameBindings_funevents.azurewebsites.net_name": {
+      "value": null
+    }
+  }
+}

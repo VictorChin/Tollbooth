@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TollBooth", "TollBooth\Toll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImages", "UploadImages\UploadImages.csproj", "{A7110625-77CF-45DD-920F-F35E8A4740BB}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "TollboothARMTemplate", "TollboothARMTemplate\TollboothARMTemplate.deployproj", "{BE88729D-E9E3-4557-BA73-786B42541552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7110625-77CF-45DD-920F-F35E8A4740BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE88729D-E9E3-4557-BA73-786B42541552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE88729D-E9E3-4557-BA73-786B42541552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE88729D-E9E3-4557-BA73-786B42541552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE88729D-E9E3-4557-BA73-786B42541552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
